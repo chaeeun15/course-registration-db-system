@@ -41,18 +41,18 @@ course-registration-db-system/
 
 | 화면 | 설명 |
 |------|------|
-| ![](./screenshots/login_page.jpg) | 로그인 페이지 |
-| ![](./screenshots/student_course.jpg) | 학생 로그인 시 과목 페이지 |
-| ![](./screenshots/registration_page.jpg) | 회원가입 페이지 |
-| ![](./screenshots/user_page.jpg) | 사용자 정보 페이지 |
-| ![](./screenshots/course_search.jpg) | 과목 검색 페이지 |
-| ![](./screenshots/admin_course_edit.jpg) | 관리자 과목 관리 페이지 |
+| <img src="./screenshots/login_page.jpg" width="400"/> | 로그인 페이지 |
+| <img src="./screenshots/student_course.jpg" width="400"/> | 학생 로그인 시 과목 페이지 |
+| <img src="./screenshots/registration_page.jpg" width="400"/> | 회원가입 페이지 |
+| <img src="./screenshots/user_page.jpg" width="400"/> | 사용자 정보 페이지 |
+| <img src="./screenshots/course_search.jpg" width="400"/> | 과목 검색 페이지 |
+| <img src="./screenshots/admin_course_edit.jpg" width="400"/> | 관리자 과목 관리 페이지 |
 
 ---
 
 ## 📄 프로젝트 문서
 
-- [`project1Wiki_kimchaeun.docx`](./report/milestone1_wiki.docx)
-- [`milestone1_kimchaeun.docx`](./report/milestone2_wiki.docx)
+- [`milestone1_wiki.docx`](./report/milestone1_wiki.docx)
+- [`milestone2_wiki.docx`](./report/milestone2_wiki.docx)
 
 ---
