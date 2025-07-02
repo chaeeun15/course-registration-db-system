@@ -41,12 +41,12 @@ course-registration-db-system/
 
 | 화면 | 설명 |
 |------|------|
-| ![](./screenshots/login_page.png) | 로그인 페이지 |
-| ![](./screenshots/student_course.png) | 학생 로그인 시 과목 페이지 |
-| ![](./screenshots/registration_page.png) | 회원가입 페이지 |
-| ![](./screenshots/user_page.png) | 사용자 정보 페이지 |
-| ![](./screenshots/course_search.png) | 과목 검색 페이지 |
-| ![](./screenshots/admin_course_edit.png) | 관리자 과목 관리 페이지 |
+| ![](./screenshots/login_page.jpg) | 로그인 페이지 |
+| ![](./screenshots/student_course.jpg) | 학생 로그인 시 과목 페이지 |
+| ![](./screenshots/registration_page.jpg) | 회원가입 페이지 |
+| ![](./screenshots/user_page.jpg) | 사용자 정보 페이지 |
+| ![](./screenshots/course_search.jpg) | 과목 검색 페이지 |
+| ![](./screenshots/admin_course_edit.jpg) | 관리자 과목 관리 페이지 |
 
 ---
 
