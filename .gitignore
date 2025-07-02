@@ -36,3 +36,7 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### IDE 설정 제외 ###
+.idea/
+*.iml
